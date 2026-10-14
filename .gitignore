@@ -1,0 +1,7 @@
+doc/*.aux
+doc/*.log
+doc/*.out
+doc/*.toc
+*.vvp
+*.vcd
+__pycache__/
